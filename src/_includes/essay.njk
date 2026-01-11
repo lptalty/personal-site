@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | L.P. Talty</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <article class="essay">
+    <header class="essay-header">
+      <a href="/" class="back-link">← Back</a>
+      <h1>{{ title }}</h1>
+      {% if date %}
+      <time datetime="{{ date | dateFormat('iso') }}">{{ date | dateFormat("long") }}</time>
+      {% endif %}
+    </header>
+    <div class="essay-content">
+      {{ content | safe }}
+    </div>
+    {% if nextEssay %}
+    <footer class="essay-footer">
+      <a href="{{ nextEssay }}" class="next-link">Continue reading →</a>
+    </footer>
+    {% endif %}
+  </article>
+</body>
+</html>
+

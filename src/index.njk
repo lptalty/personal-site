@@ -1,0 +1,48 @@
+---
+layout: base.njk
+title: Home
+---
+
+<header class="home-header">
+  <h1>L.P. Talty</h1>
+  <p class="tagline">Last Updated: 2026-01-10</p>
+</header>
+
+<section class="latest-section">
+  <h2>Latest</h2>
+  {%- set latestEssay = collections.essays | reverse | first -%}
+  <p class="latest-item">
+    <span class="latest-label">Article</span>
+    <a href="{{ latestEssay.url }}">{{ latestEssay.data.title }}</a>
+  </p>
+</section>
+
+<section class="currently-section">
+  <h2>Currently</h2>
+  <ul class="currently-list">
+    <li><span class="currently-label">Writing</span> <span class="currently-value">Nora</span></li>
+    <li><span class="currently-label">Located</span> <span class="currently-value">Park Slope</span></li>
+    <li><span class="currently-label">Reading</span> <span class="currently-value">The Count of Monte Cristo</span></li>
+    <li><span class="currently-label">Thinking</span> <span class="currently-value">"Let us first of all and before all be kind, then honest, and then&mdash;let us never forget one another" &mdash;Dostoevsky</span></li>
+  </ul>
+</section>
+
+<section class="essays-section">
+  <h2>Archive</h2>
+  <ul class="category-list">
+    <li><a href="/essays/the-noise/">Noise <span class="slash">/</span></a></li>
+    <li><a href="/essays/random/">Random <span class="slash">/</span></a></li>
+  </ul>
+</section>
+
+<section class="links-section">
+  <h2>Find me</h2>
+  <div class="social-links">
+    <a href="https://substack.com/@lptalty">Substack</a>
+    <a href="https://twitter.com/lptalty">Twitter</a>
+    <a href="https://instagram.com/lp_talty">Instagram</a>
+    <a href="https://github.com/lptalty">GitHub</a>
+    <a href="mailto:lptalty@gmail.com">Email</a>
+  </div>
+</section>
+
