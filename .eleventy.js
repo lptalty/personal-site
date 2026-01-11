@@ -48,6 +48,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/favicon-32x32.png");
 
   eleventyConfig.addWatchTarget("src/css/");
 
