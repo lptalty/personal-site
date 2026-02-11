@@ -1,6 +1,6 @@
 ---
-title: "The Count of Monte Cristo"
-date: 2026-11-27
+title: "The Count of Monte Cristo Book Review"
+date: 2026-02-12
 ---
 
 WIP
