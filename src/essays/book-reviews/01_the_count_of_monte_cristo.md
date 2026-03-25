@@ -1,6 +1,6 @@
 ---
 title: "The Count of Monte Cristo Book Review"
-date: 2026-02-12
+date: 2026-03-25
 ---
 
 When you first pick up the Penguin Classics edition of the tome that is The Count of Monte Cristo you will meet a back cover that reads: "The epic tale of wrongful imprisonment, adventure and revenge, in its definitive translation." This misrepresents Dumas' classic, though, as this book is not about revenge. Instead, it is a story of forgiveness, repentance, and faith. 
