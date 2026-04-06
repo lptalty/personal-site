@@ -42,5 +42,3 @@ I wrote about this verse initially because I felt like it missed the point of in
 And yet, the flowers are exceptionally beautiful. Even greater than that? Horrifying. That is responsibility. I can be something more beautiful, more eternal. Not my body though. Not my name. My love, my community. My ideas. They expand beyond me. Each lily contributes to the composition of the field as a whole. They are the same. I do not crave individual glory (a part of me does undeniably but it is vanity) and yet I have a job as an individual flower to be the best that I can be. In the end, the remaining flowers are greater than anything that can be imagined. The lilies of the field persist. At the end of time the ideas, culture, and love remain.
 
 ---
-
-Thank you for visiting Hsing's Inquisition! Subscribe for free to receive new posts and support my work.
