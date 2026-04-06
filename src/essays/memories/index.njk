@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: Memories
+tags: []
+---
+
+<header class="category-header">
+  <a href="/" class="back-link">← Back</a>
+  <h1>Memories</h1>
+</header>
+
+<ul class="essays-list">
+  {%- for essay in collections.essays | reverse -%}
+  {%- if "/memories/" in essay.url and essay.url !== "/essays/memories/" -%}
+  <li>
+    <a href="{{ essay.url }}">
+      <span class="essay-title">{{ essay.data.title }}</span>
+      <span class="essay-date">{{ essay.date | dateFormat("short") }}</span>
+    </a>
+  </li>
+  {%- endif -%}
+  {%- endfor -%}
+</ul>

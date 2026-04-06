@@ -9,7 +9,7 @@
 <body>
   <article class="essay">
     <header class="essay-header">
-      <a href="/" class="back-link">← Back</a>
+      <a href="{{ categoryUrl or '/' }}" class="back-link">← Back</a>
       <h1>{{ title }}</h1>
       {% if date %}
       <time datetime="{{ date | dateFormat('iso') }}">{{ date | dateFormat("long") }}</time>

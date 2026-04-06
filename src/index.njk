@@ -4,46 +4,37 @@ title: Home
 ---
 
 <header class="home-header">
-  <h1>Liam Talty</h1>
-  <p class="tagline">Last Updated: 2026-03-25</p>
+  <div class="home-title-row">
+    <h1>Liam Talty</h1>
+    <div class="home-tabs">
+      <a href="/inspiration/" class="home-tab">inspirations</a>
+      <a href="/about/" class="home-tab">about</a>
+      <a href="/find-me/" class="home-tab">contact</a>
+    </div>
+  </div>
+  <p class="tagline">Welcome! I'm currently working as a software engineer at a small startup. I graduated from Columbia College with a degree in Psychology.</p>
 </header>
 
-<section class="latest-section">
-  <h2>Latest</h2>
-  {%- set latestEssay = collections.essays | reverse | first -%}
-  <p class="latest-item">
-    <span class="latest-label">Article</span>
-    <a href="{{ latestEssay.url }}">{{ latestEssay.data.title }}</a>
-  </p>
-</section>
 
 <section class="currently-section">
   <h2>Currently</h2>
   <ul class="currently-list">
+    <li><span class="currently-label">Building</span> <span class="currently-value"><a href="https://hsichess.com">hsichess</a></span></li>
     <li><span class="currently-label">Writing</span> <span class="currently-value">Nora</span></li>
-    <li><span class="currently-label">Located</span> <span class="currently-value">Park Slope</span></li>
+    <li><span class="currently-label">Located</span> <span class="currently-value">New York City</span></li>
     <li><span class="currently-label">Reading</span> <span class="currently-value">The Trial by Franz Kafka</span></li>
     <li><span class="currently-label">Thinking</span> <span class="currently-value">"Let us first of all and before all be kind, then honest, and then&mdash;let us never forget one another" &mdash;Dostoevsky</span></li>
   </ul>
 </section>
 
 <section class="essays-section">
-  <h2>Archive</h2>
+  <h2>Writing</h2>
   <ul class="category-list">
-    <li><a href="/essays/the-noise/">The Noise <span class="slash">/</span></a></li>
+    <li><a href="/essays/stories/">Stories <span class="slash">/</span></a></li>
+    <li><a href="/essays/memories/">Memories <span class="slash">/</span></a></li>
+    <li><a href="/essays/ideas/">Ideas <span class="slash">/</span></a></li>
     <li><a href="/essays/book-reviews/">Book Reviews <span class="slash">/</span></a></li>
-    <li><a href="/essays/random/">Random <span class="slash">/</span></a></li>
   </ul>
 </section>
 
-<section class="links-section">
-  <h2>Find me</h2>
-  <div class="social-links">
-    <a href="https://substack.com/@lptalty">Substack</a>
-    <a href="https://twitter.com/lptalty">Twitter</a>
-    <a href="https://instagram.com/lp.talty">Instagram</a>
-    <a href="https://github.com/lptalty">GitHub</a>
-    <a href="mailto:lptalty@gmail.com">Email</a>
-  </div>
-</section>
 

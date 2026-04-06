@@ -1,17 +1,17 @@
 ---
 layout: base.njk
-title: The Noise
+title: Ideas
 tags: []
 ---
 
 <header class="category-header">
   <a href="/" class="back-link">← Back</a>
-  <h1>The Noise</h1>
+  <h1>Ideas</h1>
 </header>
 
 <ul class="essays-list">
-  {%- for essay in collections.essays -%}
-  {%- if "/the-noise/" in essay.url and essay.url !== "/essays/the-noise/" -%}
+  {%- for essay in collections.essays | reverse -%}
+  {%- if "/ideas/" in essay.url and essay.url !== "/essays/ideas/" -%}
   <li>
     <a href="{{ essay.url }}">
       <span class="essay-title">{{ essay.data.title }}</span>
@@ -21,4 +21,3 @@ tags: []
   {%- endif -%}
   {%- endfor -%}
 </ul>
-

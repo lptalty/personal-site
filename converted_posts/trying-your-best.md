@@ -1,0 +1,44 @@
+---
+title: "trying your best"
+date: 2024-04-20
+---
+
+![](https://substack-post-media.s3.amazonaws.com/public/images/c1c6c45a-58cf-4f06-afb0-de3a169be01a.heic)
+
+I have long wanted to run a marathon. The New York Road Runner’s New York City Marathon to be exact. Two years ago I heard about the 9 + 1 program, but in order to run the 2023 NYC marathon, I would have had to complete the program in 2022. It was the end of 2022 and I realized that I was too late. I would have to wait to start the 9 + 1 program the following year. 
+
+It has been a long time coming but now in 2024, I am signed up for the NYC marathon in November and I am doing my best to prepare. 
+
+---
+
+In addition to my running goals, I have often dreamed of writing in an honest way that conveys my emotions and individual experience of our lived existence. I want to write on this Substack to share stories about my past that have shaped who I am. To investigate my emotions and understand myself better. Moreover, I want to gift my future children and grandchildren these stories so they can better understand the past generation. I want them to have a small slice of where they come from wrapped up in these little stories, in order to help guide them as they try to figure out who they are and where they are going. 
+
+Considering my imagined audience, I want them to be proud of their history. I will do my best to be honest and not lie; to tell things best as they were. Still, there is a way to present these stories accurately and beautifully. I want to write objectively well in a way that is both gripping and relatable. 
+
+I have high expectations on myself for what these posts could and should be, but when I look at my output of articles in 2024, it is too slow. There is too much I want to cover and I am not making progress toward my goals. Certainly, life is going to keep picking up, and the stories I imagine sharing could easily fade into oblivion. 
+
+In a similar vein, I want this imagined family to be proud of my runs. I want to run races knowing that I gave my best effort and that my loved one's can be proud of me. I know it may seem ridiculous that I am so motivated by the perception of a family that does not exist, but I want my children to be proud of their dad, saying, “That’s *my *dad.” I want them to see him and believe in themselves more because of it. 
+
+---
+
+Today, I ran a training run that I am truly proud of. It was ten miles at a pace that I would not have been able to maintain two months ago. In order to achieve this, though, I had to have so many ‘embarrassing runs.’ So many runs that I would not want to be defined by. 
+
+Because I grew up playing sports, I inherently understand that any athletic endeavor has peaks and valleys. You cannot train at your very best every day. Most workouts you have to ramp up slowly. You spend seasons getting stronger until you push your body to its limit, and then you pull back. You taper before the competition. There are cycles. What is most important is being consistent.
+
+Running long distances is new to me. I want to run far and I want to run fast, but somehow I am less embarrassed to show my horrible runs to the world. I can post to my friends on Strava writing, “Look at this. All I could muster today was this effort. Tomorrow, perhaps will be better.” During training, I am not that harsh on myself. I know that tomorrow will bring a new day for me to try again. 
+
+Now, during a competition, things are different. I am saying to world, this is the best that I can do. And I realized while taking the D train home from Central Park, that admitting you are giving your best and showing the world the result of that effort is incredibly vulnerable. Especially when your best does not stack up to your expectations of the outside world. It is easy to give your best if you are objectively better than most people. The other, potentially more insidious, challenge with giving your best is not about the judgement of others, although this is a powerful force, but the judgement toward yourself. You cannot hide from yourself. You can tell the world you were saving something in the tank or that you had a bad day, but you *know* that you gave your best. 
+
+The more I thought about this on the train, alone and emotional with a runner's high, the clearer my inner dialogue became within myself: "Is this the best that you can do you?" Another part of myself responds, "Yes, yes, it is all I have. You know that!" "It's pathetic. Don't you know how much more quickly other people run?" "Yes but look how far I've come! I couldn't do this a few months ago. I think the progress is good." "If this is your best, then what is the point of trying? You disgust me." At this point I can feel my eyes welling with tears. It is embarrassing. That is my best and I could not have done any better today. Why shouldn't that be enough? 
+
+The reality is, actually, if you can get away from the inner critic, giving your best is enough. By definition! There is nothing left to give. I honestly say, "I can't give you anything more. You know that! I gave everything I have." Emotionally complicated tears begin to fall. I am crying on the D train. I do not cry tears of sadness or pain but for two other reasons. First, tears of love and empathy for myself. Why am I so hard on myself? "It is okay to do your best and to fall short." This is an internal voice that covers me in waves of what feels like parental love and experience, "It is hard to do your best and admit it to yourself. I am proud of you." And the second wave of tears, why is everyone so hard on anyone else? We are all trying to do our best. Although, to protect ourselves of the embarrassment of trying our best, we sometimes hold back. That inner, mean voice that says: "Don't try, you worthless, little fool, how could you think that you are destined for something great? How could you go all out toward something you care about in the face of everyone's judgement? Know your place." Because ultimately that inner voice can only be beaten with courage. A third, often neglected voice, in my mind says, "Fuck you. This is my best. So what? So what if it isn't good enough. It isn't good enough yet. And I'm getting better." It is a necessary fight, considering the risk of not conquering the inner demon is this: I look at other people and think, "Look at them trying. How embarrassing. I actually know so many people better than them." And then that mean voice that bullied me is actually just bullying other people. All because I was not brave enough to tell that monster, "This is all I have. I admit it, it's all I have."
+
+---
+
+In sports, it has always been easy for me to give my best because I am not giving my best for myself. I would often imagine that I was playing for my mom, my teammates, my girlfriend, or even, like I mentioned above, my future family. And that gave me the courage to tell the old dirty bastard inside of me that I will give my best for them, despite the potential ridicule or shame. 
+
+And the more that I run, the more that I realize running and writing are the same. I only have more tolerance for looking like a fool while I'm running because my baseline for physical fitness is higher than my baseline for writing. I have never written my emotions before and let other people judge them. But my personal goals for running and for writing are the same. I want to run for the people that I love in a way that will make them proud. In a way that will make them look at themselves and love who they are more. But to run a marathon in a way that would make anyone proud, I will have to string together 26 beautiful miles. One after the other makes up the race. I can only achieve this if I run hundreds of filthy, ugly, embarrassing miles first. Over and over, I have to run these disgusting, pathetic miles. Similarly with writing, one day I would like to string together 26 beautiful paragraphs. Paragraphs that tell my kids, "It is okay to do your best. Don't be scared." Perhaps those 26 paragraphs will turn into 100s of paragraphs. It is the same lesson, I have to write out thousand and thousands of abhorrent paragraphs first. I have to say to others (and even more fearfully, myself), "This is my best." To give myself the opportunity for a small number of paragraphs that I can actually be proud of. 
+
+---
+
+With that in mind, I am going to try and be brave and post more to this page. I wrote a few posts, polishing and polishing, but my ‘mileage’ is not there. It is the equivalent of running once a month hard and expecting those 26 miles to look like something meaningful. They will not. I need to do the simple, mundane, drudgery of writing paragraphs. If you are reading this as a friend, please do not feel pressure to comment or even read anything I put out. Take what serves you and leave what does not. I cherish you all despite your thoughts on this little project of mine. 
