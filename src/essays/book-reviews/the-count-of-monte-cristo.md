@@ -1,5 +1,5 @@
 ---
-title: "The Count of Monte Cristo Book Review"
+title: "The Count of Monte Cristo"
 date: 2026-03-25
 ---
 
