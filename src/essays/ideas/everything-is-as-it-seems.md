@@ -3,42 +3,18 @@ title: "everything is as it seems"
 date: 2025-07-22
 ---
 
-- 
-
-Yin / Yang
-- 
-
-Thinking fast / slow
-- 
-
-Pre frontal cortex / limbic system
-- 
-
-Angels / devils
-- 
-
-God / satan
-- 
-
-Moon / Sun
-- 
-
-Day / night
-- 
-
-Good / evil
-- 
-
-Jekyll / Hyde
-- 
-
-Inside of you lives two wolves meme
-- 
-
-Heaven / hell
-- 
-
-Mud / Lotus
+- Yin / Yang
+- Thinking fast / slow
+- Pre frontal cortex / limbic system
+- Angels / devils
+- God / satan
+- Moon / Sun
+- Day / night
+- Good / evil
+- Jekyll / Hyde
+- Inside of you lives two wolves meme
+- Heaven / hell
+- Mud / Lotus
 ![](https://substack-post-media.s3.amazonaws.com/public/images/e3b509bb-1243-4e9c-aac7-8ec00ff252aa_640x358.gif)
 **Full Metal Jacket*, dir. Stanley Kubrick, Warner Bros., 1987.*
 
