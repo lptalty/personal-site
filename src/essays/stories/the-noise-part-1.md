@@ -4,7 +4,7 @@ date: 2024-08-05
 nextEssay: "/essays/stories/the-noise-part-2/"
 ---
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/e7100959-4312-4975-a49e-50628420641b_3024x4032.heic)
+![](https://substackcdn.com/image/fetch/$s_!i2FV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7100959-4312-4975-a49e-50628420641b_3024x4032.heic)
 
 The Noise is quiet. Children do not know the Noise. The Noise, however, knows each of us intimately, eternally. It waits patiently like an alligator in the swamp, craving the day when its prey will be within its grasp.  
 
@@ -14,7 +14,7 @@ Most do not become acquainted with the Noise until they are on the cusp of adult
 
 *The Noise is a drip coffee at a pumpkin patch in October.*  
 
-When the Noise decides that the time is right, it will greet you as an old friend. The Noise is gregarious, attractive, desirable... to have a friend such as this affirms your status in the world. Who would turn away an ally in the beginning of a journey to establish oneself? And so, your relationship does not start with a bang, a passionate collision of celestial bodies, but instead as a nod in the hallway, a general acknowledgement of the other's existence.  ![](https://substack-post-media.s3.amazonaws.com/public/images/8ca70793-6555-445a-99fd-1f63292c212c_3024x4032.heic)
+When the Noise decides that the time is right, it will greet you as an old friend. The Noise is gregarious, attractive, desirable... to have a friend such as this affirms your status in the world. Who would turn away an ally in the beginning of a journey to establish oneself? And so, your relationship does not start with a bang, a passionate collision of celestial bodies, but instead as a nod in the hallway, a general acknowledgement of the other's existence.  ![](https://substackcdn.com/image/fetch/$s_!3JZ8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ca70793-6555-445a-99fd-1f63292c212c_3024x4032.heic)
 
 The innocuous nod transforms into an innocent smile, which leads to a conversation, then, an invitation. The more time you spend with the Noise the more exciting your life becomes. "We should have met each other so much earlier!" you say. 
 
@@ -32,7 +32,7 @@ The Noise is traditionally consumed through sound. One rides its infinite vibrat
 
 The Noise, in all its experience, offers suggestions: Why stop at the ear when you have the mouth? If taste, why not sight? Smell? Touch, and so forth.  
 
-The days stumble into weeks which free fall into months and years. You look into the mirror and see the Noise, caught in your peripheral vision. When you look directly at the Noise, however, it vanishes. Gone are the days of excitement and novelty. Your experience of the world is determined by the filter that is the Noise. ![](https://substack-post-media.s3.amazonaws.com/public/images/803cc0a6-14b4-4016-bc25-c3d3c18f3c6f_3024x4032.heic)
+The days stumble into weeks which free fall into months and years. You look into the mirror and see the Noise, caught in your peripheral vision. When you look directly at the Noise, however, it vanishes. Gone are the days of excitement and novelty. Your experience of the world is determined by the filter that is the Noise. ![](https://substackcdn.com/image/fetch/$s_!lLYd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F803cc0a6-14b4-4016-bc25-c3d3c18f3c6f_3024x4032.heic)
 
 Your soul is removed from the world. No longer can anything make you smile except through content that is curated by the Noise. No longer are you able to sleep without the Noise by your bedside. You do not cry. You do not laugh. The Noise tells you when and how much to feel. You no longer imagine that you are ascending to unimaginable heights. You are not confident in what you are or what you could be.  
 
@@ -40,7 +40,7 @@ Your soul is removed from the world. No longer can anything make you smile excep
 
 *The Noise is a luxury watch after a year's end bonus.  *
 
-This moment is perhaps the only time in your life when you will be able to defeat the Noise. Most were unknowingly devoured by the Noise long ago. They only vaguely recall a life that existed before the Noise: of tears of laughter, tears of anguish, tears of love, and tears of loss. When they were brave and full of light. ![](https://substack-post-media.s3.amazonaws.com/public/images/4d24c7b5-0ca4-4fa9-b40c-1c52facafd05_1024x679.heic)
+This moment is perhaps the only time in your life when you will be able to defeat the Noise. Most were unknowingly devoured by the Noise long ago. They only vaguely recall a life that existed before the Noise: of tears of laughter, tears of anguish, tears of love, and tears of loss. When they were brave and full of light. ![](https://substackcdn.com/image/fetch/$s_!TKxL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d24c7b5-0ca4-4fa9-b40c-1c52facafd05_1024x679.heic)
 
 To fight back will require specialized tools, patience, and grit. The Noise is a professional and you most likely waited too long to free yourself from its grasp. The Noise buries itself in your skin. In your eyeballs. In your brain. The answer, however, is not to begin tearing yourself apart. No, healing requires the same amount of time that went into integration of mind and Noise.  
 

@@ -3,7 +3,7 @@ title: "Nothing is Worth Craving"
 date: 2024-05-24
 ---
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/416f6551-7ed7-43cb-8b79-abe200121f11.heic)
+![](https://substackcdn.com/image/fetch/$s_!xRV8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F416f6551-7ed7-43cb-8b79-abe200121f11.heic)
 *Does an owl crave to be anything other than what it is? *
 
 To crave is to cling onto an imagined future too tightly. It makes you rigid, ultimately ruining your desired outcome, like a golfer gripping their driver too tight. When I crave, emotionally I believe that if my desires are unfulfilled then I will not be okay. I define success and failure as black and white. I realize looking back on my life, though, that had I welcomed the vicissitudes of life without judgement, I would have achieved the outcomes I desired.

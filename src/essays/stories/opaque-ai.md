@@ -3,7 +3,7 @@ title: "Opaque AI"
 date: 2024-12-15
 ---
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/ef7205fe-9845-491d-981b-7b027c2b7310_3024x4032.heic)
+![](https://substackcdn.com/image/fetch/$s_!5OiE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef7205fe-9845-491d-981b-7b027c2b7310_3024x4032.heic)
 
 I am quite intrigued by the hot, new startup Opaque AI, which is valued at a staggering 1 trillion USD. Since its inception in summer 2024, its founders have spent 286 billion USD on paradigm-shifting, wheel re-inventing technology that optimizes all facets of life. Opaque AI’s most impressive tech innovation comes from their predictive algorithm, Oedipus, which is slated to replace the entire market cap in law, tech, healthcare, and finance by early 2026.
 

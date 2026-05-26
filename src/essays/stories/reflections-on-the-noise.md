@@ -3,7 +3,7 @@ title: "Reflections on the Noise"
 date: 2024-11-27
 ---
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/a45c601d-1e7e-4ef5-a519-fd829d320df7_3024x4032.heic)
+![](https://substackcdn.com/image/fetch/$s_!0grt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa45c601d-1e7e-4ef5-a519-fd829d320df7_3024x4032.heic)
 
 The Noise haunts me. It envelops me; chokes me. I can feel my life slipping through my fingers at an ever increasing rate but I do not know why. I am acquainted with the idea that time accelerates as you get older, years passing at the speed of months and months at the speed of weeks, until you are dead. I see that my body is no longer capable of what it once was. I no longer recover as quickly as I used to. I am not as strong or as fast. My skin is slowly, consistently marching away from my body until eventually they will be two separate entities altogether.
 

@@ -3,7 +3,7 @@ title: "trying your best"
 date: 2024-04-20
 ---
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/c1c6c45a-58cf-4f06-afb0-de3a169be01a.heic)
+![](https://substackcdn.com/image/fetch/$s_!jdcD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1c6c45a-58cf-4f06-afb0-de3a169be01a.heic)
 
 I have long wanted to run a marathon. The New York Road Runner’s New York City Marathon to be exact. Two years ago I heard about the 9 + 1 program, but in order to run the 2023 NYC marathon, I would have had to complete the program in 2022. It was the end of 2022 and I realized that I was too late. I would have to wait to start the 9 + 1 program the following year. 
 
