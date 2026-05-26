@@ -613,3 +613,14 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.footnote-backref {
+  font-size: 0.75em;
+  color: #999;
+  text-decoration: none;
+  margin-left: 0.25em;
+}
+
+.footnote-backref:hover {
+  color: #555;
+}
