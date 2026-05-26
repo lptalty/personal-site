@@ -1,4 +1,10 @@
+const markdownIt = require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
+
 module.exports = function (eleventyConfig) {
+  const md = markdownIt({ html: true }).use(markdownItFootnote);
+  eleventyConfig.setLibrary("md", md);
+
   eleventyConfig.addFilter("dateFormat", function (date, format) {
     const d = new Date(date);
     const months = [
