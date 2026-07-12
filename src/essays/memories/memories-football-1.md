@@ -4,24 +4,16 @@ date: 2025-07-26
 ---
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/aa633415-4891-488a-bef0-22b174c8cc95_4000x2475.jpeg)
-**Snap the Whip* (1872) — Winslow Homer, American painter*
+*Snap the Whip (1872) — Winslow Homer, American painter*
 
-Why was I so obsessed with football? 
+Why was I so obsessed with football?
 
-Some hypotheses: 
+Some hypotheses:
 
-- 
-
-It allowed me to connect to something bigger than myself
-- 
-
-It allowed me to channel my anger into something constructive
-- 
-
-It allowed me to hide behind a jersey and a helmet
-- 
-
-I was good at it
+- It allowed me to connect to something bigger than myself
+- It allowed me to channel my anger into something constructive
+- It allowed me to hide behind a jersey and a helmet
+- I was good at it
 
 There must have been something more to it though. I wanted to win more than anything. I would have died for it. It was my life's purpose. 
 
